@@ -24,16 +24,6 @@
       "name": "Geladeira",
       "price": 2750.89,
       "id": 6
-    },
-    {
-      "name": "Teclado",
-      "price": 360,
-      "id": 7
-    },
-    {
-      "name": "Garrafa d'agua",
-      "price": 35,
-      "id": 8
     }
   ]
 }
